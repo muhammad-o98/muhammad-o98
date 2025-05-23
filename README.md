@@ -8,7 +8,7 @@ Muhammad Obaidullah Abdul Salam | Boston, MA | [LinkedIn](https://www.linkedin.c
 
 <h1 align="center">Hi, I'm Muhammad Obaidullah Abdul Salam 👋</h1>
 <p align="center">
-  <b>MS Analytics & Applied Machine Intelligence @ Northeastern | Predictive Modeling | Machine Learning</b><br>
+  <b>Data Analytics | Regression Analysis | Predictive Modeling | Machine Learning</b><br>
   <a href="https://github.com/muhammad-o98">GitHub</a> •
   <a href="https://www.linkedin.com/in/muhammad-o/">LinkedIn</a>
 </p>
