@@ -58,11 +58,11 @@ _Karachi, Pakistan (Jun 2021 – Sep 2021)_
 
 **Northeastern University**  
 _MPS in Analytics (Applied Machine Intelligence), 2025–2027_  
-- Courses: AI Applications, Predictive Analytics, Data Mining, AI System Technologies
+- Courses: Algorithms, Unsupervised Machine Learning, AI Applications, Predictive Analytics, Data Mining, AI System Technologies
 
 **NUST Business School**  
 _Bachelor's in Accounting & Finance, Minor: Economics, 2018–2022_  
-- Thesis: Financial Report Manipulation & Corporate Governance in Pakistan
+- Thesis: Forensic Analysis of Financial Manipulation and Corporate Governance in Non-Financial Firms in Pakistan
 
 ---
 
