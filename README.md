@@ -20,7 +20,7 @@ Muhammad Obaidullah Abdul Salam | Boston, MA | [LinkedIn](https://www.linkedin.c
 - 🎓 **Master in Analytics & Applied Machine Intelligence**, Northeastern University (2025-2027), CGPA: 4.0
 - 💡 Passionate about leveraging data and AI to solve real-world problems
 - 🛠️ Expertise in Algorithms, Data Science, Machine Learning, Regression
-- 🛠️ Skills include: Python, RStudio, SQL, Tableau, BI, Qlik,   
+- 🛠️ Skills include: `Python`, `RStudio`, `SQL`, `Tableau`, `BI`, `Qlik`, `Azur`   
 - 🌍 Boston, MA | Working remotely | Open to relocation
 - 🧑‍💻 Exploring the intersection of analytics, machine learning, and business impact
 - 📈 Former Digital Marketing Analyst with expertise in Google Analytics, Conversion Optimization, and PPC.
