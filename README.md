@@ -6,7 +6,7 @@ Muhammad Obaidullah Abdul Salam | Boston, MA | [LinkedIn](https://www.linkedin.c
   <img src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" width="120" alt="Muhammad Obaidullah Abdul Salam" style="border-radius: 50%">
 </p>
 
-<h1 align="center">Hi, I'm Muhammad Obaidullah Abdul Salam 👋</h1>
+<h1 align="center">Hi, I'm Muhammad O.Abdul Salam 👋</h1>
 <p align="center">
   <b>Data Analytics | Regression Analysis | Predictive Modeling | Machine Learning</b><br>
   <a href="https://github.com/muhammad-o98">GitHub</a> •
