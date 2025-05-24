@@ -3,7 +3,7 @@ Muhammad Obaidullah Abdul Salam | Boston, MA | [LinkedIn](https://www.linkedin.c
 -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" width="130" alt="Muhammad Obaidullah Abdul Salam" style="border-radius: 50%; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"/>
+  <img src="[https://avatars.githubusercontent.com/u/your-github-user-id?v=4](https://pixabay.com/illustrations/artificial-intelligence-brain-4389372/)" width="130" alt="Muhammad Obaidullah Abdul Salam" style="border-radius: 50%; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"/>
 </p>
 
 <h1 align="center">
